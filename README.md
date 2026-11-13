@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SilvioRamirez&theme=dark&locale=es)](https://git.io/streak-stats)
-https://minimalistic-wallpaper.demolab.com/?random
+
